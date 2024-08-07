@@ -32,7 +32,7 @@ Under `dataset`, there are **14 files (including 3 unzipped files)** downloaded 
 ## Download
 You can manually download the original dataset from [UWS Institutional Data Repository](https://research-data.westernsydney.edu.au/published/31f45ab0519411ecb15399911543e199/).
 
-You can also download the full dataset or choose your interested materials by running `download.ipynb`.
+You can also download the full dataset or your interested materials by running `download.ipynb`.
 
 ## License
 
