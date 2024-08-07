@@ -36,4 +36,4 @@ You can also download the full dataset or your interested materials by running `
 
 ## License
 
-This repository is licensed with [MIT](https://opensource.org/license/mit).
+This repository is licensed under [MIT](https://opensource.org/license/mit).
