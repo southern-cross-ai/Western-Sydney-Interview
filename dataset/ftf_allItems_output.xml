@@ -1,0 +1,2306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="http://omeka.uws.edu.au/farmstofreeways/admin/items?output=omeka-xml" accessDate="2015-05-26T13:30:38+10:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>1</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>132</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="533" public="1" featured="1">
+    <fileContainer>
+      <file fileId="193">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/32537d05fc9d6cf3c23d0fec79b23d46.mp3</src>
+        <authentication>aee9cc575370389eec73bb17e7768d46</authentication>
+      </file>
+      <file fileId="194">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/97cc1f6ab75a0911afed8d2094c3a87c.mp3</src>
+        <authentication>e8c6699a7648d1223171625d1edb136c</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="4142">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="4143">
+              <text>Joan Jeffery</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="4144">
+              <text>audio cassette tape (1)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4145">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4146">
+              <text>{CASE} (ORIGINAL MASTERS). {SPINE} JEFFREY, JOAN 10/3/92 No. 36 {CASSETTE} [same]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="4147">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/436"&gt;Transcript of interview with Joan Jeffery&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4148">
+              <text>UWS_36_[A/B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4149">
+              <text>0:31:36 and 0:31:36</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4150">
+              <text>44456 KB and 44456 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4151">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4152">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4141">
+                <text>Audio recording of interview with Joan Jeffery</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4153">
+                <text>36</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4154">
+                <text>1992-03-10</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4155">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4156">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4195">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/436"&gt;Transcript of interview with Joan Jeffery&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="4">
+        <name>Blacktown</name>
+      </tag>
+      <tag tagId="3">
+        <name>Quakers Hill</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="532" public="1" featured="1">
+    <fileContainer>
+      <file fileId="195">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/4154170a7690f52e0c6522706c0c485b.mp3</src>
+        <authentication>3104244a6cbdd98bc297becb6641e5ed</authentication>
+      </file>
+      <file fileId="196">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/7f4e52333ed35b652185f1590bc6181f.mp3</src>
+        <authentication>5a02ad47ed17fa2162b2679bfdb5df88</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="4126">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="4127">
+              <text>Joyce McKelvey</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="4128">
+              <text>audio cassette tape (1)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4129">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4130">
+              <text>{CASE} (ORIGINAL MASTERS). {SPINE} McKELVEY, JOYCE 10/3/92 No. 35 {CASSETTE} [same]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="4131">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/440"&gt;Transcript of interview with Joyce McKelvey&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4132">
+              <text>UWS_35_[A/B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4133">
+              <text>0:31:44 and 0:31:45</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4134">
+              <text>44646 KB and 44651 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4135">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4136">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4125">
+                <text>Audio recording of interview with Joyce Mcelvey</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4137">
+                <text>35</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4138">
+                <text>1992-03-10</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4139">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4140">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4194">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/440"&gt;Transcript of interview with Joyce McKelvey&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="4">
+        <name>Blacktown</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="531" public="1" featured="1">
+    <fileContainer>
+      <file fileId="197">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/e68f23c345d65856b7bf55678b489b67.mp3</src>
+        <authentication>249b27c9569a5b04de9333dac37aa41d</authentication>
+      </file>
+      <file fileId="198">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/9eb2f3b702a8aa49a43515e946e49725.mp3</src>
+        <authentication>08cf2e3b133259c07883126772aaa9af</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="4110">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="4111">
+              <text>Olga Robshaw</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="4112">
+              <text>audio cassette tape (1)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4113">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4114">
+              <text>{CASE} (ORIGINAL MASTERS). {SPINE} ROBSHAW, Olga 6/3/92 No. 34 {CASSETTE} [same]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="4115">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/451"&gt;Transcript of interview with Olga Robshaw&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4116">
+              <text>UWS_34_[A/B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4117">
+              <text>0:31:42 and 0:31:45</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4118">
+              <text>44590 KB and 44655 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4119">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4120">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4109">
+                <text>Audio recording of interview with Olga Robshaw</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4121">
+                <text>34</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4122">
+                <text>1992-03-06</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4123">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4124">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4193">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/451"&gt;Transcript of interview with Olga Robshaw&lt;/a&gt;&lt;br /&gt;&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/376"&gt;Photo of Olga Robshaw&lt;/a&gt;&lt;br /&gt;&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/377"&gt;Photo of Olga Robshaw&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="14">
+        <name>Bilpin</name>
+      </tag>
+      <tag tagId="4">
+        <name>Blacktown</name>
+      </tag>
+      <tag tagId="13">
+        <name>Schofields</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="530" public="1" featured="1">
+    <fileContainer>
+      <file fileId="199">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/80ded52c7051eaccb29939c8d829b92b.mp3</src>
+        <authentication>a9ef3478fea0d61da1d0668f1ed1dadb</authentication>
+      </file>
+      <file fileId="200">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/09b3fb48c754df162257bb1809553ffa.mp3</src>
+        <authentication>337c2f11e13e06dceaf950e261b7dcae</authentication>
+      </file>
+      <file fileId="201">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/e63abb644e255d779b342f47119fc89d.mp3</src>
+        <authentication>9919f99b7a831df60f5b4965dd85ba00</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="4093">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="4094">
+              <text>Judith Eastwell</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="4095">
+              <text>audio cassette tapes (2)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4096">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4097">
+              <text>{CASE} ORIGINAL MASTER (TAPE 1) {SPINE} EASTWELL Judith 5/3/92 No. 33 {CASSETTE} [same] and {CASE} ORIGINAL MASTER (TAPE 2) {SPINE} EASTWELL Judith 5/3/92 No. 33 {CASSETTE} [same - no label side B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="122">
+          <name>Ingest Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4098">
+              <text>Tape 1: Side A some clipping (microphone bumped). Side B ingested at lower gain and Tape 2: Side B is blank.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="4099">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/430"&gt;Transcript of interview with Judith Eastwell&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4100">
+              <text>UWS_33_1_[A/B] and UWS_33_2_[A]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4101">
+              <text>Tape 1: 0:31:47 and 0:31:47, Tape 2: 0:31:39</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4102">
+              <text>Tape 1: 44701 KB and 44697 KB, Tape 2: 44520 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4103">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4104">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4092">
+                <text>Audio recording of interview with Judith Eastwell</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4105">
+                <text>33</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4106">
+                <text>1992-03-05</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4107">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4108">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4196">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/430"&gt;Transcript of interview with Judith Eastwell&lt;/a&gt;&lt;br /&gt;&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/342"&gt;Photo of Judith Eastwell&lt;/a&gt;&lt;br /&gt;&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/343"&gt;Photo of Judith Eastwell&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="4">
+        <name>Blacktown</name>
+      </tag>
+      <tag tagId="3">
+        <name>Quakers Hill</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="529" public="1" featured="1">
+    <fileContainer>
+      <file fileId="202">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/24eb675a6b730caa922788dbe66674ee.mp3</src>
+        <authentication>a2d43e6f6e90180ffa60daaee7bc352f</authentication>
+      </file>
+      <file fileId="203">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/b86fb3e9905e331f8a1871848f78c0cd.mp3</src>
+        <authentication>81efb12a118342cb8871a415f89b52ca</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="4076">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="4077">
+              <text>Edna Vidler</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="4078">
+              <text>audio cassette tape (1)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4079">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4080">
+              <text>{CASE} ORIGINAL MASTER. {SPINE} VIDLER, Edna 28/2/92 No. 32 {CASSETTE} [same]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="122">
+          <name>Ingest Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4081">
+              <text>Side A some clipping (microphone bumped). Side B ingested at lower gain.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="4082">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/457"&gt;Transcript of interview with Edna Vidler&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4083">
+              <text>UWS_32_[A/B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4084">
+              <text>0:31:49 and 0:31:49</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4085">
+              <text>44755 KB and 44757 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4086">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4087">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4075">
+                <text>Audio recording of interview with Edna Vidler</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4088">
+                <text>32</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4089">
+                <text>1992-02-28</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4090">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4091">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4197">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/457"&gt;Transcript of interview with Edna Vidler&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="4">
+        <name>Blacktown</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="528" public="1" featured="1">
+    <fileContainer>
+      <file fileId="204">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/1dc9852d0575fd7f5e5f4ceb3641caec.mp3</src>
+        <authentication>25fe595099ae5f9e150235c7aca4a132</authentication>
+      </file>
+      <file fileId="205">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/181f79c2230f930d95d959e43bd60e8d.mp3</src>
+        <authentication>fc3c47821aadfcf26141402312ad5627</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="4060">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="4061">
+              <text>Thelma Masters</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="4062">
+              <text>audio cassette tape (1)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4063">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4064">
+              <text>{CASE} ORIGINAL MASTER. {SPINE} MASTERS Olga 26/2/92 No. 31 {CASSETTE} [same, but] THELMA MASTERS</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="4065">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/439"&gt;Transcript of interview with Thelma Masters&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4066">
+              <text>UWS_31_[A/B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4067">
+              <text>0:31:38 and 0:31:38</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4068">
+              <text>44488 KB and 44506 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4069">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4070">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4059">
+                <text>Audio recording of interview with Thelma Masters</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4071">
+                <text>31</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4072">
+                <text>1992-02-26</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4073">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4074">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4198">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/439"&gt;Transcript of interview with Thelma Masters&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="4">
+        <name>Blacktown</name>
+      </tag>
+      <tag tagId="3">
+        <name>Quakers Hill</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="527" public="1" featured="1">
+    <fileContainer>
+      <file fileId="127">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/0f5f3f14979b8880170163a813381e45.mp3</src>
+        <authentication>6127109399359cb3ed8ed2175664916c</authentication>
+      </file>
+      <file fileId="128">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/abcf64dcbfb1e7e66b207b5e898d7467.mp3</src>
+        <authentication>8a87919725c73b843a99651d571f8330</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="4043">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="4044">
+              <text>Amelia Vincent</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="4045">
+              <text>audio cassette tape (1)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4046">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4047">
+              <text>{CASE} ORIGINAL MASTER. {SPINE} VINCENT Amelia 21/2/92 No. 30 {CASSETTE} [same]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="122">
+          <name>Ingest Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4048">
+              <text>Side B content starts at 03:19</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="4049">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/458"&gt;Transcript of interview with Amelia Vincent&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4050">
+              <text>UWS_30_[A/B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4051">
+              <text>0:31:45 and 0:31:46</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4052">
+              <text>44670 KB and 44676 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4053">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4054">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4042">
+                <text>Audio recording of interview with Amelia Vincent</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4055">
+                <text>30</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4056">
+                <text>1992-02-21</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4057">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4058">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4199">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/458"&gt;Transcript of interview with Amelia Vincent&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="4">
+        <name>Blacktown</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="526" public="1" featured="1">
+    <fileContainer>
+      <file fileId="129">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/2931e4d0e03cc196fb06d95ba5befdae.mp3</src>
+        <authentication>d46bee9bff943de9d8f0c9ac93ad354d</authentication>
+      </file>
+      <file fileId="130">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/e234914d60676fa8ce4f5ee72e40d30a.mp3</src>
+        <authentication>f4fdfdd53daeee9f3398ce1e1b3eda14</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="4026">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="4027">
+              <text>Sheila Nottley</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="4028">
+              <text>audio cassette tape (1)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4029">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4030">
+              <text>{CASE} ORIGINAL MASTER. {SPINE} NOTTLEY Sheila 16/12/91 No. 29 {CASSETTE} [same]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="122">
+          <name>Ingest Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4031">
+              <text>Side A starts abruptly.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="4032">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/443"&gt;Transcript of interview with Sheila Nottley&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4033">
+              <text>UWS_29_[A/B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4034">
+              <text>0:31:48 and 0:31:49</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4035">
+              <text>44732 KB and 44745 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4036">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4037">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4025">
+                <text>Audio recording of interview with Sheila Nottley</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4038">
+                <text>29</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4039">
+                <text>1991-12-16</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4040">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4041">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4200">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/443"&gt;Transcript of interview with Sheila Nottley&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="8">
+        <name>Eastern Creek</name>
+      </tag>
+      <tag tagId="7">
+        <name>Mt Druitt</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="525" public="1" featured="1">
+    <fileContainer>
+      <file fileId="131">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/4f0c87311921eaae04d7c2b14c006c40.mp3</src>
+        <authentication>30f6e65003988fe055c2027f47737039</authentication>
+      </file>
+      <file fileId="132">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/ce7b03c1d6257421801c4d8280f798c3.mp3</src>
+        <authentication>190cc8e1796ea85bc5f5cc7a155f25a0</authentication>
+      </file>
+      <file fileId="133">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/a121c4af19e54363ea3eb75ca09dca38.mp3</src>
+        <authentication>010ca310866fbb363064400548708213</authentication>
+      </file>
+      <file fileId="134">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/7d5972b8d0ba47b8ca7d0100eed92873.mp3</src>
+        <authentication>6aefea709d893da400be670b607fabb1</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="4009">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="4010">
+              <text>Edith Mason</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="4011">
+              <text>audio cassette tapes (2)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4012">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4013">
+              <text>{CASE} ORIGINAL MASTER (TAPE 1) {SPINE} MASON, EDITH 18/12/91 TAPE 1 No. 28 {CASSETTE} [same] and {CASE} ORIGINAL MASTER (TAPE 2) {SPINE} MASON, EDITH 18/12/91 TAPE 2 No. 28 {CASSETTE} [same]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="122">
+          <name>Ingest Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4014">
+              <text>Tape 1: Side B speed incorrect after appx 14:45 and Tape 2: Side B content starts at 02:20</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="4015">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/438"&gt;Transcript of interview with Edith Mason&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4016">
+              <text>UWS_28_1_[A/B] and UWS_28_2_[A/B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4017">
+              <text>Tape 1: 0:31:46 and 0:31:46, Tape 2: 0:31:38 and 0:31:38</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4018">
+              <text>Tape 1: 44675 KB and 44675 KB, Tape 2: 44487 KB and 44494 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4019">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4020">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4008">
+                <text>Audio recording of interview with Edith Mason</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4021">
+                <text>28</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4022">
+                <text>1991-12-18</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4023">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4024">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4201">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/438"&gt;Transcript of interview with Edith Mason&lt;/a&gt;&lt;br /&gt;&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/358"&gt;Photo of Edith Mason&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="7">
+        <name>Mt Druitt</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="524" public="1" featured="1">
+    <fileContainer>
+      <file fileId="135">
+        <src>http://omeka.uws.edu.au/farmstofreeways/files/original/134c84e5448f9749bb0945403b7a2482.mp3</src>
+        <authentication>30a1b4ae9417279f4f9b57c6c9948e93</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="521">
+                  <text>Interview Audio Recordings</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="45">
+              <name>Publisher</name>
+              <description>An entity responsible for making the resource available</description>
+              <elementTextContainer>
+                <elementText elementTextId="522">
+                  <text>University of Western Sydney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1317">
+                  <text>Copyright University of Western Sydney 2015</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="5">
+      <name>Sound</name>
+      <description>A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.</description>
+      <elementContainer>
+        <element elementId="2">
+          <name>Interviewer</name>
+          <description>The person(s) performing the interview</description>
+          <elementTextContainer>
+            <elementText elementTextId="3992">
+              <text>Robyn Arrowsmith</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="3">
+          <name>Interviewee</name>
+          <description>The person(s) being interviewed</description>
+          <elementTextContainer>
+            <elementText elementTextId="3993">
+              <text>Joyce Moon</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="3994">
+              <text>audio cassette tape (1)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Original Tape Stock</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="3995">
+              <text>TDK D60</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="121">
+          <name>Cassette Label Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="3996">
+              <text>{CASE} ORIGINAL MASTER {SPINE} MOON, Joyce 13/12/91 No. 27 {CASSETTE} [same - no label side B]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="122">
+          <name>Ingest Notes</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="3997">
+              <text>Side A starts abruptly. Side B is blank.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="5">
+          <name>Transcription</name>
+          <description>Any written text transcribed from a sound</description>
+          <elementTextContainer>
+            <elementText elementTextId="3998">
+              <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/441"&gt;Transcript of interview with Joyce Moon&lt;/a&gt;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Digital File Name</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="3999">
+              <text>UWS_27_[A]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="11">
+          <name>Duration</name>
+          <description>Length of time involved (seconds, minutes, hours, days, class periods, etc.)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4000">
+              <text>0:31:47</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="124">
+          <name>Digital File Size</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4001">
+              <text>44718 KB</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="125">
+          <name>Digital File Format</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="4002">
+              <text>VLC media file (.mp3)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="15">
+          <name>Bit Rate/Frequency</name>
+          <description>Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio)</description>
+          <elementTextContainer>
+            <elementText elementTextId="4003">
+              <text>192kbps</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3991">
+                <text>Audio recording of interview with Joyce Moon</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="4004">
+                <text>27</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="56">
+            <name>Date Created</name>
+            <description>Date of creation of the resource.</description>
+            <elementTextContainer>
+              <elementText elementTextId="4005">
+                <text>1991-12-13</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4006">
+                <text>University of Western Sydney</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4007">
+                <text>Copyright University of Western Sydney 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4202">
+                <text>&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/441"&gt;Transcript of interview with Joyce Moon&lt;/a&gt;&lt;br /&gt;&lt;a href="http://omeka.uws.edu.au/farmstofreeways/items/show/359"&gt;Photo of Joyce Moon&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="4">
+        <name>Blacktown</name>
+      </tag>
+      <tag tagId="13">
+        <name>Schofields</name>
+      </tag>
+      <tag tagId="19">
+        <name>Westmead</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>
